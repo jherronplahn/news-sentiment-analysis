@@ -11,7 +11,7 @@ Shown below are the results of the third time running the sentiment analysis wit
 * On the third and final analysis run, Fox News went from a negative score the prior two times to a positive score. The other news outlets didn't fluctuate as much; this might be due to a specific topic Fox News is positively tweeting  about at time of the analysis that other news outlets are not positively tweeting about. 
 
 
-* These sentiment analysis results are likely to fluctuate greatly, depending on the news that happens within a particular day/week/month. An interesting analysis would be to compare news outlet sentiment analysis with top trending news during that time period to see if there is a consistent corrleation on how specific news topics are reported by a particluar news outlet, perhaps revelaing bias. 
+* These sentiment analysis results are likely to fluctuate greatly, depending on the news that happens within a particular day/week/month. An interesting analysis would be to compare news outlet sentiment analysis with top trending news during that time period to see if there is a consistent corrleation on how specific news topics are reported by a particluar news outlet, perhaps revealing bias. 
 
 
 ```python
