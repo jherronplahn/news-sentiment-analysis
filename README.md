@@ -5,7 +5,7 @@
 
 Shown below are the results of the third time running the sentiment analysis within a 24-hour period. 
 
-* After running the analysis three separate times within a 24-hour time periond, the BBC consistently had the most negative score for sentiment analysis. This may be due to the specific handle selected for BBC (breaking news) and an interesting comparison would be BBCBreaking vs. other BBC handles (BBCWorld).
+* After running the analysis three separate times within a 24-hour time period, the BBC consistently had the most negative score for sentiment analysis. This may be due to the specific handle selected for BBC (breaking news) and an interesting comparison would be BBCBreaking vs. other BBC handles (BBCWorld).
 
 
 * On the third and final analysis run, Fox News went from a negative score the prior two times to a positive score. The other news outlets didn't fluctuate as much; this might be due to a specific topic Fox News is positively tweeting  about at time of the analysis that other news outlets are not positively tweeting about. 
